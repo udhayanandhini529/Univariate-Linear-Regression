@@ -38,7 +38,7 @@ print(ypred)
 
 
 
-```
+
 ## Output
 </br><img width="839" height="618" alt="image" src="https://github.com/user-attachments/assets/701db22b-7d41-43fe-a2e5-5002829c8152" />
 
